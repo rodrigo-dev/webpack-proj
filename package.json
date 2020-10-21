@@ -11,5 +11,9 @@
     "url": "github.com/rodrigo-dev/webpack-proj"
   },
   "author": "Rodrigo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.1.3"
+  }
 }
